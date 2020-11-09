@@ -1,3 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&family=Permanent+Marker&family=Piazzolla:ital,wght@1,300&family=Righteous&display=swap');
+
 body {
-    background-color: blue;
+    margin: 0;
+    text-align: center;
+}
+
+
+
+h1 {
+   
+   margin-top: 0;
+
+}
+
+
+.top-container {
+    background-color: rgb(220, 233, 245);
+   
+    
+    
+    
+}
+
+.middle-container {
+    background-color: rgb(230, 222, 222);
+
+   
+    
+}
+
+.bottom-container {
+    background-color: rgb(220, 233, 245);
+    height: 200px;
+    width: 200px;
+    
 }
